@@ -21,37 +21,18 @@
 
 ### 🛠️ Tech Stack & Ekosistem
 
-#### 🤖 Artificial Intelligence & Data Science
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,opencv,kaggle,anaconda" alt="AI & ML Stack" />
-  </a>
-</div>
-
-<div align="center" style="margin-top: 8px;">
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=000" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Google Colab" />
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" alt="ONNX" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-</div>
-
-<br/>
-
-#### 💻 Full-Stack & Mobile Development
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,flutter,dart,tailwind,laravel,php,ts,js,html,css" alt="Web & Mobile Stack" />
-  </a>
-</div>
-
-<br/>
-
-#### 🗄️ Database, Cloud & DevOps
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,supabase,mysql,docker,git,github,postman,linux,nginx,vercel" alt="DevOps & Database" />
-  </a>
+  <!-- AI, Machine Learning & Data -->
+  <p><strong>AI & Machine Learning</strong></p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,opencv" alt="AI and ML Stack" />
+  
+  <!-- Web & Mobile Development -->
+  <p><strong>Web & Mobile</strong></p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,flutter,tailwind,laravel" alt="Web and Mobile Stack" />
+  
+  <!-- Backend, Database & Tools -->
+  <p><strong>Backend, Cloud & Tools</strong></p>
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,docker,git,postman,copilot" alt="Tools and Cloud" />
 </div>
 
 ---
