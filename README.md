@@ -19,11 +19,38 @@
 
 ---
 
-### 🛠️ Tech Stack & Alat
+### 🛠️ Tech Stack & Ekosistem
 
+#### 🤖 Artificial Intelligence & Data Science
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,flutter,tailwind,laravel,python,pytorch,tensorflow,sklearn,opencv,kaggle,supabase,postgres,git,docker,postman" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,opencv,kaggle,anaconda" alt="AI & ML Stack" />
+  </a>
+</div>
+
+<div align="center" style="margin-top: 8px;">
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=000" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Google Colab" />
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" alt="ONNX" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+</div>
+
+<br/>
+
+#### 💻 Full-Stack & Mobile Development
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,flutter,dart,tailwind,laravel,php,ts,js,html,css" alt="Web & Mobile Stack" />
+  </a>
+</div>
+
+<br/>
+
+#### 🗄️ Database, Cloud & DevOps
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,supabase,mysql,docker,git,github,postman,linux,nginx,vercel" alt="DevOps & Database" />
   </a>
 </div>
 
