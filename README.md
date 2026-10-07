@@ -19,20 +19,10 @@
 
 ---
 
-### 🛠️ Tech Stack & Ekosistem
-
 <div align="center">
-  <!-- AI, Machine Learning & Data -->
-  <p><strong>AI & Machine Learning</strong></p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,opencv" alt="AI and ML Stack" />
-  
-  <!-- Web & Mobile Development -->
-  <p><strong>Web & Mobile</strong></p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,flutter,tailwind,laravel" alt="Web and Mobile Stack" />
-  
-  <!-- Backend, Database & Tools -->
-  <p><strong>Backend, Cloud & Tools</strong></p>
-  <img src="https://skillicons.dev/icons?i=postgres,supabase,docker,git,postman,copilot" alt="Tools and Cloud" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,flutter,tailwind,laravel,python,pytorch,tensorflow,scikitlearn,opencv,supabase,postgres,git,docker,copilot" />
+  </a>
 </div>
 
 ---
